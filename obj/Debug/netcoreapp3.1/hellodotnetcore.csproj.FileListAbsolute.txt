@@ -1,0 +1,21 @@
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/appsettings.json
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/hellodotnetcore
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/hellodotnetcore.deps.json
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/hellodotnetcore.runtimeconfig.json
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/hellodotnetcore.runtimeconfig.dev.json
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/hellodotnetcore.dll
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/hellodotnetcore.pdb
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.csprojAssemblyReference.cache
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.AssemblyInfoInputs.cache
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.AssemblyInfo.cs
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.csproj.CoreCompileInputs.cache
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.MvcApplicationPartsAssemblyInfo.cache
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.RazorTargetAssemblyInfo.cache
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/staticwebassets/hellodotnetcore.StaticWebAssets.Manifest.cache
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/staticwebassets/hellodotnetcore.StaticWebAssets.xml
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.dll
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.pdb
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/obj/Debug/netcoreapp3.1/hellodotnetcore.genruntimeconfig.cache
+/mnt/d/source/repos/Training/Azure-Application-Service/Azure-App-Service-Labs/hellodotnetcore/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/tarket-web-app-yla - Web Deploy/profile.arm.json

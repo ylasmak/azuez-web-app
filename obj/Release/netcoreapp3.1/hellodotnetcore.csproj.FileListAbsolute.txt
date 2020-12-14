@@ -1,0 +1,21 @@
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\appsettings.json
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\tarket-web-app-yla - Web Deploy\profile.arm.json
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\hellodotnetcore.exe
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\hellodotnetcore.deps.json
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\hellodotnetcore.runtimeconfig.json
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\hellodotnetcore.runtimeconfig.dev.json
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\hellodotnetcore.dll
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\bin\Release\netcoreapp3.1\hellodotnetcore.pdb
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.csprojAssemblyReference.cache
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.AssemblyInfoInputs.cache
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.AssemblyInfo.cs
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.csproj.CoreCompileInputs.cache
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.MvcApplicationPartsAssemblyInfo.cache
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.RazorTargetAssemblyInfo.cache
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\staticwebassets\hellodotnetcore.StaticWebAssets.Manifest.cache
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\staticwebassets\hellodotnetcore.StaticWebAssets.xml
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.dll
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.pdb
+D:\source\repos\Training\Azure-Application-Service\Azure-App-Service-Labs\hellodotnetcore\obj\Release\netcoreapp3.1\hellodotnetcore.genruntimeconfig.cache
