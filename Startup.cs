@@ -33,7 +33,7 @@ namespace hellodotnetcore
                 endpoints.MapGet("/", async context =>
                 {
                     var currentDate = DateTime.Now.ToString();
-                    await context.Response.WriteAsync("Hello World deployment using git repo version 2:"+ currentDate);
+                    await context.Response.WriteAsync("Hello World deployment using git repo to a slot dev:"+ currentDate);
                 });
             });
         }
